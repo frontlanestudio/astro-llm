@@ -187,6 +187,14 @@ You will always get **identical output**.
 
 ---
 
+## Contributors
+
+Thanks to everyone who has contributed to `astro-llm`:
+
+- [@ttntm](https://github.com/ttntm) — fixed a regex escaping bug in selector-based exclusion ([#2](https://github.com/velohost/astro-llm/pull/2))
+
+---
+
 ## License
 
 MIT © Velohost

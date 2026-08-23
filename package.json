@@ -1,6 +1,6 @@
 {
   "name": "astro-llm",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Generates a deterministic, static LLM-readable context file for Astro sites using a first-run config file",
   "homepage": "https://velohost.co.uk/plugins/astro-llm/",
   "repository": {
