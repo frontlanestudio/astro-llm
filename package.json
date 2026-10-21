@@ -2,13 +2,13 @@
   "name": "astro-llm",
   "version": "0.2.1",
   "description": "Generates a deterministic, static LLM-readable context file for Astro sites using a first-run config file",
-  "homepage": "https://velohost.co.uk/plugins/astro-llm/",
+  "homepage": "https://github.com/frontlanestudio/astro-llm",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/velohost/astro-llm.git"
+    "url": "git+https://github.com/frontlanestudio/astro-llm.git"
   },
   "bugs": {
-    "url": "https://github.com/velohost/astro-llm/issues"
+    "url": "https://github.com/frontlanestudio/astro-llm/issues"
   },
   "license": "MIT",
   "type": "module",
